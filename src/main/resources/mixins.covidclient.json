@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "package": "dev.covidclient.mixins",
+  "refmap": "mixins.covidclient.refmap.json",
+  "mixins": []
+}
